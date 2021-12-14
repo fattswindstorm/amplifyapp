@@ -15,5 +15,9 @@ function App() {
     
   );
 }
+import { CardB } from './ui-components'
+  return <div>
+    <CardB />
+  </div>
 
 export default App;
